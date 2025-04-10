@@ -22,7 +22,7 @@
     list-style-type: none;
 }
 
-.header_menu-home a {
+.header_menu-home a.active {
     text-decoration: none;
 }
 
@@ -312,7 +312,7 @@
     list-style-type: none;
 }
 
-.footer_menu-home a {
+.footer_menu-home a.active {
     text-decoration: none;
 }
 

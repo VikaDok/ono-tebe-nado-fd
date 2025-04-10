@@ -50,7 +50,6 @@
 
 .header__address {
     justify-self: end;
-    text-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
 }
 
 .cover {
@@ -63,9 +62,8 @@
     background-image: url(../images/cover.jpg);
     background-size: cover;
     background-position: center;
-    max-height: 757px;
     z-index: 0;
-    padding: 165px 50px 207px;
+    padding: 165px 50px 52px;
 }
 
 .overlay {
@@ -180,6 +178,7 @@
     text-decoration: none;
     color: white;
     position: relative;
+    flex-wrap: nowrap;
 }
 
 .card {

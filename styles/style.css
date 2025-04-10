@@ -179,6 +179,7 @@
     color: white;
     position: relative;
     flex-wrap: nowrap;
+    gap: 25px;
 }
 
 .card {
